@@ -1,2 +1,2 @@
 # bugs-fixes-update
-# Streachy Header Effect Starter Project
+# Streachy Header Effect Bugs Fixes Project
